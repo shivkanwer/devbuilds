@@ -124,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
 
   @include breakpoint($large) {
     display: block;
@@ -165,7 +165,7 @@
 }
 
 .author__name {
-  margin: 0;
+  margin-top: 5px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -178,7 +178,7 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin-top: -10px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -212,7 +212,7 @@
 
   button {
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 
     &:before {
       @supports (pointer-events: none) {
