@@ -5,6 +5,10 @@ layout: home
 author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name is [Shivkanwer Singh](https://www.linkedin.com/in/shivkanwer/) and I work at Microsoft as a Sr. Technical Consultant (Azure). I started my carrier as a Software Developer at Infosys Ltd. I have over 9 years of Industry experiecne and have worked on various roles across different Microsoft technologies. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Some of things that I do on day to day basis include:
+* Providing technical Pre-sales assistance to Microsoft partners to help them win deals on Azure
+* Work on Azure architecture design with developers
+* Provide technical recommendations and best practices to the Microsoft Partners
+* Deliver enablement sessions for the developers to help them ramp up on the various Azure services
