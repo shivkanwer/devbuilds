@@ -45,7 +45,7 @@ comments:
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : "MDEwOlJlcG9zaXRvcnk0MDQ3Mjg5Njg=" # Shown during giscus setup at https://giscus.app
-    category_name        : "Q&A" # Full text name of the category
+    category_name        : "Announcements" # Full text name of the category
     category_id          : "DIC_kwDOGB-siM4COUQX" # Shown during giscus setup at https://giscus.app
     discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
